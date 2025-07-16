@@ -1,0 +1,6 @@
+{
+  "description": "A professionally refactored personal resume website featuring a modern, component-based architecture with React and TypeScript. This version introduces UI/UX enhancements like scroll-based animations via Framer Motion, improved data handling, and a highly maintainable and scalable codebase.",
+  "prompt": "make it the way you recommend",
+  "requestFramePermissions": [],
+  "name": "App"
+}
